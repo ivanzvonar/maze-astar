@@ -158,10 +158,3 @@ The A* algorithm is used across multiple domains:
 - **Research robotics** — navigation in unknown environments (space exploration, underwater)
 
 ---
-
-## References
-
-- Hart, P. E., Nilsson, N. J., & Raphael, B. (1994). *A Formal Basis for the Heuristic Determination of Minimum Cost Paths.*
-- Wang, H. et al. (2022). *The EBS-A\* algorithm: An improved A\* algorithm for path planning.* PLOS ONE.
-- Barnouti, N. H. et al. (2016). *Pathfinding in Strategy Games and Maze Solving Using A\* Search Algorithm.* Journal of Computer and Communications.
-- Brilliant.org. *A\* Search.* https://brilliant.org/wiki/a-star-search/
